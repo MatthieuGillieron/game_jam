@@ -9,7 +9,7 @@
   <tr>
     <!-- 1ère cellule : image/logo.png cliquable, 100x100 -->
     <td style="width: 25%;" align="center">
-      <a href="https://magillie.itch.io/cell-slayer">
+      <a href="https://magillie.itch.io/cell-slayer](https://github.com/MatthieuGillieron/cell_slayer">
         <img src="images/logo.png" alt="Logo" style="width: 120px; height: 120px;">
       </a>
     </td>
