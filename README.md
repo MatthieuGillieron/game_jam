@@ -24,7 +24,7 @@
       <strong>Theme:</strong> Split<br>
       <strong>Game:</strong> Cell_Slayer<br>
       <strong>Started:</strong> 14-03-25<br>
-      <strong>Ended:</strong> 16-03-25,br>
+      <strong>Ended:</strong> 16-03-25,<br>
       <a href="https://magillie.itch.io/cell-slayer">Click for play</a>
     </td>
     <!-- 4ème cellule : auteurs avec liens GitHub -->
