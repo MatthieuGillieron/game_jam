@@ -25,13 +25,10 @@
       <strong>Ended:</strong> 16-03-25,<br>
       <a href="https://magillie.itch.io/cell-slayer">Click for play</a>
     </td>
-    <!-- 4ème cellule : auteurs avec liens GitHub -->
+    <!-- 4ème cellule : description du jeu + lien repo -->
     <td style="width: 25%;" align="left">
-      <strong>Authors:</strong><br>
-      <a href="https://github.com/lnicolosi">Luca Nicolosi</a><br>
-      <a href="https://github.com/Crealex">Alexandre Tomasi</a><br>
-      <a href="https://github.com/Gregos622">Gregory Koller</a><br>
-      <a href="https://github.com/MatthieuGillieron">Matthieu Gillieron</a>
+      <strong>Description:</strong> A survival game in the style of Brotato, developed in Godot with a team of 4.<br>
+      <a href="https://github.com/MatthieuGillieron/cell_slayer.git">See the repo</a>
     </td>
   </tr>
 </table>
