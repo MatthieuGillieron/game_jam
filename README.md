@@ -1,5 +1,6 @@
-<h1 align="center">Game Jam</h1>
-<p align="center">This repository gathers every game jam I've taken part in, each card links to its dedicated repo below.</p>
+<h1 align="left">Game Jam</h1>
+<p align="left">This repository gathers every game jam I've taken part in, each card links to its dedicated repo below.</p>
+<br>
 
 <table style="table-layout: fixed; width: 100%;">
   <!-- Rangée 2 : 4 cellules de même taille -->
